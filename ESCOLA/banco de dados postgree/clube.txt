@@ -1,0 +1,6 @@
+Clube de Música	15:00:00	3	O clube tocou música muito alta 3 vezes	A	1000.00	20	1	2
+Clube de Entomologia	15:00:00	2	Alguns insetos escaparam do clube e infestaram a escola, alguns alunos desmaiaram de medo	A	8024.24	24	2	3
+Clube da Luta	15:00:00	1	Um membro quebrou a perna de alguém brigando na escola	A	5000.00	8	4	4
+Clube de Basquete	15:00:00	2	Um membro quebrou a janela da quadra 2 vezes	A	10000.00	quadra coberta 1	3	5
+Conselho Estudantil	15:00:00	0		A	20000.00	sala 1	6	6
+Clube de Jornalismo	15:00:00	1	Um aluno reclamou de exposição	A	4000.00	sala 12	7	10
